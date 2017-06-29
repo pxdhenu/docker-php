@@ -1,6 +1,6 @@
 FROM hub.c.163.com/library/php:7.0.16-fpm
 
-MAINTAINER Pxd "pxdhenu@163.com"
+MAINTAINER PanXiaodong "pxdhenu@163.com"
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
 
