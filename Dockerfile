@@ -1,4 +1,4 @@
-FROM hub.c.163.com/library/php:7.1.5-fpm
+FROM hub.c.163.com/library/php:7.0.16-fpm
 
 MAINTAINER Pxd "pxdhenu@163.com"
 
